@@ -3,7 +3,7 @@
 Este projeto tem como objetivo analisar dados fictícios de vendas realizadas em um supermercado, a fim de obter insights sobre o comportamento dos clientes, produtos mais vendidos e desempenho de vendas por cidade e método de pagamento.
 
 ## 📊 Tecnologias utilizadas:
-- Python 3
+- Python 3.x
 - pandas
 - matplotlib
 - seaborn
